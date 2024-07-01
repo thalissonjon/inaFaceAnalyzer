@@ -27,6 +27,7 @@
 import os
 from setuptools import setup #, find_packages
 import versioneer
+import torch
 
 KEYWORDS = '''
 gender-equality

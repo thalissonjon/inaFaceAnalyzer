@@ -53,6 +53,7 @@ from abc import ABC, abstractmethod
 from typing import NamedTuple
 import cv2
 import numpy as np
+import torch
 import onnxruntime
 
 from .rect import Rect
